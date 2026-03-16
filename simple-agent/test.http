@@ -1,0 +1,7 @@
+### 测试智能体对话
+POST http://localhost:8080/api/agent/chat
+Content-Type: application/json
+
+{
+  "message": "你好！你能做什么？"
+}
